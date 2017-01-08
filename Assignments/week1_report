@@ -1,1 +1,31 @@
+It was not surprising to hear that we haven't learnt much.
+well, frist week was awesome.
 
+I got to read one of the research papers(Turing article) as part of the assignment.
+I was supposed to read the Turing article by John E Hopcroft (Turing award winner 1986).
+The article was entitled 'COMPUTER SCIENCE: THE EMERGENCE OF A DESCIPLINE'.
+Although boring, but it was quite fascinating to know how the descipline evolved with time.
+
+He has worked in the following areas
+1.Formal language theory 
+2.Automata theory
+3.Graph models
+4.Data structures and algorithms.
+
+His another area of research included the comparison of algorithm.
+Comparison of algorithms in early days bssed on 
+1.total running time which depends on computer performance.
+2.the programming efficency 
+3.growth rate of running time as the inputs get longer
+
+John recognized that as computers became faster and workes on larger problems, 
+the most important part to understand was the last one,the growth rate of running time.
+
+He explored efficient structurs for storing data in a computer and created efficient algorithms
+for storing the problems they could represent.
+
+His current work, which uses graph models explores ways to track social networks 
+and build the search engines of the future.
+
+
+I also went through the language clojure briefly.
