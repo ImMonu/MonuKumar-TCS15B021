@@ -5,7 +5,7 @@ public class MyStack {
    
    public MyStack(int s) {
       maxSize = s
-      stackArray = new long[maxSize];
+      stackArray = new long[maxSize]
       top = -1
    }
    public void push(long j) {
